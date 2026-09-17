@@ -15,74 +15,200 @@
 # ------------------------------------------------------------
 keywords:
 
-  # Core software engineering
+  # ------------------------------------------------------------
+  # SOFTWARE / DEVELOPMENT
+  # ------------------------------------------------------------
   - "Software Engineer"
-  - "Senior Software Engineer"
-  - "Staff Software Engineer"
-  - "Principal Software Engineer"
+  - "Software Developer"
   - "Software Development Engineer"
-  - "Senior Software Development Engineer"
-  - "SDE"
-  - "SDE II"
-  - "SDE III"
-
-  # Backend / Platform
-  - "Backend Engineer"
-  - "Senior Backend Engineer"
-  - "Backend Developer"
-  - "Senior Backend Developer"
-  - "Platform Engineer"
-  - "Senior Platform Engineer"
-  - "Distributed Systems Engineer"
+  - "Application Developer"
+  - "Application Engineer"
+  - "Systems Developer"
   - "Systems Engineer"
-
-  # Python
+  - "Backend Engineer"
+  - "Backend Developer"
   - "Python Developer"
-  - "Senior Python Developer"
   - "Python Engineer"
-  - "Senior Python Engineer"
-
-  # AI / GenAI / LLM
-  - "AI Engineer"
-  - "Senior AI Engineer"
-  - "AI Software Engineer"
-  - "Applied AI Engineer"
-  - "Senior Applied AI Engineer"
-  - "Generative AI Engineer"
-  - "Senior Generative AI Engineer"
-  - "GenAI Engineer"
-  - "LLM Engineer"
-  - "Senior LLM Engineer"
-  - "AI/ML Engineer"
-  - "Machine Learning Engineer"
-  - "Senior Machine Learning Engineer"
-  - "ML Engineer"
-
-  # Agentic AI / Forward Deployed
-  - "Agentic AI Engineer"
-  - "AI Agent Engineer"
-  - "AI Agents Engineer"
-  - "Forward Deployed Engineer"
-  - "Forward Deployed Software Engineer"
-  - "Forward Deployed AI Engineer"
-  - "Forward Deployed Engineer - Software Engineer"
-  - "Customer Engineer"
-  - "Solutions Engineer"
-
-  # Architecture / technical leadership
-  - "Software Architect"
-  - "Solution Architect"
-  - "Solutions Architect"
-  - "Technical Architect"
-  - "Cloud Architect"
-  - "Platform Architect"
-
-  # Cloud / infrastructure
-  - "Cloud Engineer"
-  - "Senior Cloud Engineer"
   - "Cloud Software Engineer"
+  - "DevOps Engineer"
+  - "DevOps Associate"
+
+  # ------------------------------------------------------------
+  # IT / INFORMATION TECHNOLOGY
+  # ------------------------------------------------------------
+  - "IT Analyst"
+  - "IT Analyst I"
+  - "IT Support Analyst"
+  - "IT Support Analyst I"
+  - "IT Technician"
+  - "IT Technician I"
+  - "IT Specialist"
+  - "IT Specialist I"
+  - "Information Technology Analyst"
+  - "Information Technology Specialist"
+  - "Systems Analyst"
+  - "Systems Analyst I"
+  - "Systems Administrator"
+  - "Systems Administrator I"
+  - "IT Operations Analyst"
+  - "IT Operations Specialist"
+  - "Technology Analyst"
+  - "Technology Specialist"
+  - "Technical Analyst"
+  - "Technical Analyst I"
+
+  # ------------------------------------------------------------
+  # SERVICE DESK / HELPDESK
+  # ------------------------------------------------------------
+  - "Service Desk Analyst"
+  - "Service Desk Analyst I"
+  - "Service Desk Technician"
+  - "Service Desk Technician I"
+  - "Help Desk Analyst"
+  - "Help Desk Technician"
+  - "Helpdesk Analyst"
+  - "Helpdesk Technician"
+  - "Desktop Support Analyst"
+  - "Desktop Support Technician"
+  - "Technical Support Analyst"
+  - "Technical Support Specialist"
+  - "IT Support Specialist"
+
+  # ------------------------------------------------------------
+  # CYBERSECURITY
+  # ------------------------------------------------------------
+  - "Cybersecurity Analyst"
+  - "Cyber Security Analyst"
+  - "Cybersecurity Analyst I"
+  - "Information Security Analyst"
+  - "Information Security Analyst I"
+  - "Security Analyst"
+  - "Security Analyst I"
+  - "SOC Analyst"
+  - "SOC Analyst I"
+  - "Security Operations Analyst"
+  - "Security Operations Analyst I"
+  - "Cyber Defense Analyst"
+  - "Incident Response Analyst"
+  - "Threat Analyst"
+  - "GRC Analyst"
+  - "Security GRC Analyst"
+  - "Risk Analyst"
+  - "Technology Risk Analyst"
+  - "IT Risk Analyst"
+  - "IAM Analyst"
+  - "Identity and Access Management Analyst"
+  - "Vulnerability Analyst"
+  - "Security Compliance Analyst"
+
+  # ------------------------------------------------------------
+  # CLOUD / INFRASTRUCTURE
+  # ------------------------------------------------------------
+  - "Cloud Engineer"
+  - "Cloud Engineer I"
+  - "Cloud Support Engineer"
+  - "Cloud Analyst"
+  - "Cloud Operations Analyst"
+  - "Infrastructure Analyst"
   - "Infrastructure Engineer"
-  - "Senior Infrastructure Engineer"
+  - "Infrastructure Support Analyst"
+  - "Network Analyst"
+  - "Network Analyst I"
+  - "Network Engineer"
+  - "Network Engineer I"
+  - "Network Support Technician"
+
+  # ------------------------------------------------------------
+  # DATA / BUSINESS ANALYSIS
+  # ------------------------------------------------------------
+  - "Data Analyst"
+  - "Data Analyst I"
+  - "Business Analyst"
+  - "Business Analyst I"
+  - "Business Systems Analyst"
+  - "Business Systems Analyst I"
+  - "IT Business Analyst"
+  - "Technical Business Analyst"
+  - "Operations Analyst"
+  - "Operations Analyst I"
+  - "Reporting Analyst"
+  - "Reporting Analyst I"
+  - "Data Quality Analyst"
+  - "Data Operations Analyst"
+  - "Technology Business Analyst"
+
+  # ------------------------------------------------------------
+  # TECHNOLOGY / PROJECT OPERATIONS
+  # ------------------------------------------------------------
+  - "Technology Coordinator"
+  - "IT Coordinator"
+  - "IT Project Coordinator"
+  - "Technology Project Coordinator"
+  - "Project Coordinator"
+  - "Technical Project Coordinator"
+  - "Project Analyst"
+  - "IT Project Analyst"
+  - "PMO Analyst"
+  - "Technology Operations Analyst"
+  - "Technical Operations Analyst"
+
+  # ------------------------------------------------------------
+  # CUSTOMER SUCCESS / SAAS
+  # ------------------------------------------------------------
+  - "Customer Success Associate"
+  - "Customer Success Specialist"
+  - "Customer Success Analyst"
+  - "Customer Success Coordinator"
+  - "Customer Success Manager"
+  - "Client Success Associate"
+  - "Client Success Specialist"
+  - "Client Success Coordinator"
+  - "Customer Experience Specialist"
+  - "Customer Experience Associate"
+  - "Technical Customer Success"
+  - "Technical Customer Success Specialist"
+  - "SaaS Support Specialist"
+  - "SaaS Support Analyst"
+
+  # ------------------------------------------------------------
+  # IMPLEMENTATION / TECHNICAL SERVICES
+  # ------------------------------------------------------------
+  - "Implementation Specialist"
+  - "Implementation Analyst"
+  - "Implementation Associate"
+  - "Implementation Coordinator"
+  - "Implementation Consultant"
+  - "Technical Implementation Specialist"
+  - "Onboarding Specialist"
+  - "Technical Onboarding Specialist"
+  - "Product Support Specialist"
+  - "Product Support Analyst"
+  - "Technical Product Analyst"
+  - "Technical Product Analyst I"
+
+  # ------------------------------------------------------------
+  # SOLUTIONS / TECHNICAL CONSULTING
+  # ------------------------------------------------------------
+  - "Solutions Engineer"
+  - "Solutions Consultant"
+  - "Technical Solutions Consultant"
+  - "Associate Solutions Engineer"
+  - "Technology Consultant"
+  - "IT Consultant"
+  - "Technical Consultant"
+  - "Cloud Consultant"
+
+  # ------------------------------------------------------------
+  # QA — KEEP FUNCTIONAL/ANALYST ROLES, EXCLUDE SDET
+  # ------------------------------------------------------------
+  - "Software Quality Analyst"
+  - "Quality Analyst"
+  - "Quality Analyst I"
+  - "Software QA Analyst"
+  - "Quality Assurance Analyst"
+  - "Quality Assurance Analyst I"
+  - "Test Analyst"
+  - "Test Analyst I"
 
 # ------------------------------------------------------------
 # LOCATIONS
@@ -92,27 +218,56 @@ keywords:
 # companies describe their location simply as "India".
 # ------------------------------------------------------------
 locations:
+
+  # ------------------------------------------------------------
+  # REMOTE
+  # ------------------------------------------------------------
   - "Remote"
-  - "Remote India"
-  - "India"
+  - "Remote United States"
+  - "Remote USA"
+  - "United States"
+  - "USA"
 
-  # Delhi NCR
-  - "Delhi NCR"
-  - "Delhi"
-  - "NCR"
-  - "Noida"
-  - "Greater Noida"
-  - "Gurgaon"
-  - "Gurugram"
+  # ------------------------------------------------------------
+  # GEORGIA
+  # ------------------------------------------------------------
+  - "Atlanta"
+  - "Atlanta, GA"
+  - "Alpharetta"
+  - "Sandy Springs"
+  - "Marietta"
+  - "Roswell"
+  - "Decatur"
+  - "College Park"
+  - "East Point"
+  - "Fairburn"
 
-  # Major engineering hubs
-  - "Bengaluru"
-  - "Bangalore"
-  - "Hyderabad"
-  - "Pune"
-  - "Mumbai"
-  - "Chennai"
-
+  # ------------------------------------------------------------
+  # MAJOR TECHNOLOGY MARKETS
+  # ------------------------------------------------------------
+  - "Austin"
+  - "Boston"
+  - "Charlotte"
+  - "Chicago"
+  - "Dallas"
+  - "Denver"
+  - "Houston"
+  - "Miami"
+  - "Minneapolis"
+  - "New York"
+  - "New York City"
+  - "Philadelphia"
+  - "Phoenix"
+  - "Pittsburgh"
+  - "Raleigh"
+  - "San Antonio"
+  - "San Diego"
+  - "San Francisco"
+  - "San Jose"
+  - "Seattle"
+  - "Tampa"
+  - "Washington DC"
+  - "Washington, DC"
 # ------------------------------------------------------------
 # EXCLUSIONS
 # ------------------------------------------------------------
@@ -121,41 +276,103 @@ locations:
 # ------------------------------------------------------------
 exclude_keywords:
 
+  # ------------------------------------------------------------
+  # MANAGEMENT / EXECUTIVE
+  # ------------------------------------------------------------
   - "Senior Staff"
   - "Staff+"
+  - "Staff Engineer"
+  - "Principal"
   - "Director"
   - "Vice President"
   - "VP "
   - "Chief"
   - "CTO"
+  - "CIO"
+  - "CISO"
   - "Head of"
+  - "Executive Director"
+  - "Manager II"
+  - "Manager III"
+  - "Senior Manager"
+
+  # ------------------------------------------------------------
+  # EXPERIENCE LEVELS ABOVE ENTRY
+  # ------------------------------------------------------------
+  - "Senior"
+  - "Sr."
+  - "Sr "
+  - "Lead"
+  - "Expert"
+
+  # ------------------------------------------------------------
+  # TEMPORARY / STUDENT ROLES
+  # ------------------------------------------------------------
   - "Intern"
   - "Internship"
-  - "Graduate"
+  - "Co-op"
+  - "Coop"
+  - "Graduate Program"
   - "Fresher"
   - "Trainee"
   - "Apprentice"
-  - "Junior"
-  - "Associate"
-  - "Entry Level"
 
-  # Roles that are generally outside your target
-  - "SDET"
-  - "QA Engineer"
-  - "Quality Assurance"
-  - "Test Engineer"
-  - "Automation Tester"
+  # ------------------------------------------------------------
+  # DEVELOPMENT AREAS YOU DON'T WANT
+  # ------------------------------------------------------------
   - "Frontend Developer"
   - "Frontend Engineer"
+  - "Front End Developer"
+  - "Front End Engineer"
   - "React Developer"
+  - "React Engineer"
   - "React Native Developer"
   - "Mobile Developer"
+  - "Mobile Engineer"
   - "Android Developer"
+  - "Android Engineer"
   - "iOS Developer"
-  - "WordPress"
+  - "iOS Engineer"
+  - "WordPress Developer"
+
+  # ------------------------------------------------------------
+  # QA / TESTING ROLES YOU DON'T WANT
+  # ------------------------------------------------------------
+  - "SDET"
+  - "Software Development Engineer in Test"
+  - "Automation Tester"
+  - "Automation Test Engineer"
+  - "Test Automation Engineer"
+
+  # ------------------------------------------------------------
+  # SUPPORT ROLES TO AVOID
+  # ------------------------------------------------------------
   - "Sales Engineer"
-  - "Support Engineer"
-  - "Technical Support"
+  - "Sales Development"
+  - "Business Development Representative"
+  - "Sales Representative"
+  - "Technical Sales"
+  - "Commission Only"
+
+  # ------------------------------------------------------------
+  # NON-TECHNICAL SUPPORT
+  # ------------------------------------------------------------
+  - "Call Center"
+  - "Call Centre"
+  - "Customer Service Representative"
+  - "Customer Service Agent"
+  - "Customer Service Rep"
+
+  # Keep technical support, IT support, product support,
+  # service desk, and SaaS support.
+
+  # ------------------------------------------------------------
+  # SECURITY CLEARANCE RESTRICTIONS
+  # ------------------------------------------------------------
+  # Only use these if you specifically cannot obtain clearance.
+  # - "Top Secret"
+  # - "TS/SCI"
+  # - "Secret Clearance"
 
 # ------------------------------------------------------------
 # COMPANIES TO TRACK DIRECTLY VIA ATS
@@ -170,46 +387,194 @@ exclude_keywords:
 # ------------------------------------------------------------
 companies:
 
-  # AI / enterprise / agentic AI
-  - name: "Level AI"
-    ats: lever
-    board_token: "levelai"
+  - name: "Microsoft"
+    ats: microsoft
 
-  - name: "HighLevel"
-    ats: lever
-    board_token: "gohighlevel"
+  - name: "Amazon"
+    ats: amazon
 
-  - name: "KlearNow.ai"
-    ats: lever
-    board_token: "klearnow"
+  - name: "Google"
+    ats: google
 
-  - name: "ElevenLabs"
-    ats: ashby
-    board_token: "elevenlabs"
+  - name: "IBM"
+    ats: ibm
 
-  - name: "Ema"
-    ats: ashby
-    board_token: "ema"
+  - name: "Oracle"
+    ats: oracle
 
-  - name: "Sarvam AI"
-    ats: ashby
-    board_token: "sarvam"
+  - name: "Dell Technologies"
+    ats: dell
 
-  - name: "Emergence"
-    ats: ashby
-    board_token: "emergence"
+  - name: "Cisco"
+    ats: cisco
 
-  - name: "MightyBot"
-    ats: ashby
-    board_token: "MightyBot"
+  - name: "Hewlett Packard Enterprise"
+    ats: hpe
 
-  - name: "Cartesia"
-    ats: ashby
-    board_token: "cartesia"
+  - name: "Accenture"
+    ats: accenture
 
-  - name: "Reacher"
-    ats: ashby
-    board_token: "reacher"
+  - name: "Deloitte"
+    ats: deloitte
+
+  - name: "Cognizant"
+    ats: cognizant
+
+  - name: "Kyndryl"
+    ats: kyndryl
+
+      - name: "CrowdStrike"
+    ats: crowdstrike
+
+  - name: "Zscaler"
+    ats: zscaler
+
+  - name: "Palo Alto Networks"
+    ats: paloalto
+
+  - name: "Fortinet"
+    ats: fortinet
+
+  - name: "Okta"
+    ats: okta
+
+  - name: "Cloudflare"
+    ats: cloudflare
+
+  - name: "Rapid7"
+    ats: rapid7
+
+  - name: "Tenable"
+    ats: tenable
+
+  - name: "Huntress"
+    ats: huntress
+
+  - name: "SentinelOne"
+    ats: sentinelone
+
+  - name: "Arctic Wolf"
+    ats: arcticwolf
+
+      - name: "Salesforce"
+    ats: salesforce
+
+  - name: "ServiceNow"
+    ats: servicenow
+
+  - name: "Atlassian"
+    ats: atlassian
+
+  - name: "HubSpot"
+    ats: hubspot
+
+  - name: "Adobe"
+    ats: adobe
+
+  - name: "Intuit"
+    ats: intuit
+
+  - name: "Workday"
+    ats: workday
+
+  - name: "DocuSign"
+    ats: docusign
+
+  - name: "Dropbox"
+    ats: dropbox
+
+  - name: "GitLab"
+    ats: gitlab
+
+  - name: "Datadog"
+    ats: datadog
+
+  - name: "Twilio"
+    ats: twilio
+
+  - name: "Zoom"
+    ats: zoom
+
+      - name: "Capital One"
+    ats: capitalone
+
+  - name: "JPMorgan Chase"
+    ats: jpmorgan
+
+  - name: "Bank of America"
+    ats: bankofamerica
+
+  - name: "Wells Fargo"
+    ats: wellsfargo
+
+  - name: "Discover"
+    ats: discover
+
+  - name: "American Express"
+    ats: amex
+
+  - name: "Mastercard"
+    ats: mastercard
+
+  - name: "Visa"
+    ats: visa
+
+  - name: "Fidelity Investments"
+    ats: fidelity
+
+  - name: "Charles Schwab"
+    ats: schwab
+
+      - name: "UnitedHealth Group"
+    ats: unitedhealth
+
+  - name: "CVS Health"
+    ats: cvs
+
+  - name: "Humana"
+    ats: humana
+
+  - name: "Elevance Health"
+    ats: elevance
+
+  - name: "McKesson"
+    ats: mckesson
+
+  - name: "Epic"
+    ats: epic
+
+  - name: "Zocdoc"
+    ats: zocdoc
+
+  - name: "Grow Therapy"
+    ats: growtherapy
+
+  - name: "OneDigital"
+    ats: onedigital
+
+      - name: "Northrop Grumman"
+    ats: northropgrumman
+
+  - name: "Lockheed Martin"
+    ats: lockheedmartin
+
+  - name: "Raytheon"
+    ats: raytheon
+
+  - name: "General Dynamics Information Technology"
+    ats: gdit
+
+  - name: "Booz Allen Hamilton"
+    ats: boozallen
+
+  - name: "Leidos"
+    ats: leidos
+
+  - name: "SAIC"
+    ats: saic
+
+  - name: "Peraton"
+    ats: peraton
 
 # ------------------------------------------------------------
 # BROAD SEARCH
@@ -230,20 +595,20 @@ broad_search:
 # ------------------------------------------------------------
 applicant:
 
-  first_name: "Your"
-  last_name: "Name"
+  first_name: "Jamar"
+  last_name: "Harris"
 
   email: "you@example.com"
-  phone: "+10000000000"
+  phone: "+16787096250"
 
-  linkedin_url: "https://www.linkedin.com/in/yourprofile/"
+  linkedin_url: "https://www.linkedin.com/in/jamar-harris/"
 
-  portfolio_url: "https://yourportfolio.example.com/"
+
 
   # Recommended: convert your resume to PDF and place it here.
   resume_path: "data/resume.pdf"
 
-  cover_letter_path: "data/cover_letter.pdf"
+ 
 
 # ------------------------------------------------------------
 # APPLICATION BEHAVIOR
